@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Feliciano Tjandera!
 
 🎓 **Undergraduate Information Systems Student**
 💡 Passionate about **Data Analysis**, **Data Science**, and **Front-End Development**  
