@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Feliciano Tjandera!
 
-🎓 **Undergraduate Information Systems Student***
+🎓 **Undergraduate Information Systems Student****
 💡 Passionate about **Data Analysis**, **Data Science**, and **Front-End Development**  
 🎨 Background in **Multimedia, UI/UX Design, and Graphic Design**
 
