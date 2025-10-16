@@ -14,7 +14,7 @@ I enjoy exploring datasets, identifying patterns, and transforming insights into
 
 - 🌱 Currently learning: **Machine Learning**, **Data Visualization**, and **API Integration**
 - 💬 Ask me about: **Python**, **SQL**, **HTML/CSS**, **Power BI**, or **Figma**
-- ⚙️ Tools I use: `Python` · `SQL` · `Power BI` · `Tableau` · `Excel` · `Figma` · `VS Code` · `Photoshop`
+- ⚙️ Tools I use: `Python` · `SQL` · `Power BI` · `Excel` · `Figma` · `VS Code` · `Photoshop`
 - 🤝 Open to: Internship opportunities in **Data**, **Web Development**, or **Business Intelligence**
 
 ---
