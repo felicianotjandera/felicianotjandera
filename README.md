@@ -24,7 +24,6 @@ I enjoy exploring datasets, identifying patterns, and transforming insights into
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 #### 🌐 Front-End & Design
@@ -37,16 +36,16 @@ I enjoy exploring datasets, identifying patterns, and transforming insights into
 ---
 
 ### 📊 Featured Projects
-- 🧩 [Data Visualization Dashboard](#) — Interactive dashboard built with Power BI & Tableau  
+- 🧩 [Data Visualization Dashboard](#) — Interactive dashboard built with Power BI  
 - 💻 [Web Portfolio](#) — Personal website built with HTML, CSS, and Bootstrap  
 - 📈 [Python Data Analysis Project](#) — Exploratory data analysis and visualization using Pandas & Matplotlib  
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=wix&logoColor=white)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/feliciano-tjandera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=wix&logoColor=white)](https://felicianotjandera.wixsite.com/portofolio-feliciano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felicianotjandera96@gmail.com)
 
 ---
 
