@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Feliciano Tjandera!
 
 🎓 **Undergraduate Information Systems Student**
-
 💡 Passionate about **Data Analysis**, **Data Science**, and **Front-End Development**  
-
 🎨 Background in **Multimedia, UI/UX Design, and Graphic Design**
 
 ---
@@ -12,7 +10,7 @@
 I’m an Information Systems student who loves combining **analytical thinking** and **creativity** to build data-driven and visually engaging digital solutions.  
 I enjoy exploring datasets, identifying patterns, and transforming insights into **interactive dashboards** and **user-friendly interfaces**.
 
-- 🌱 Currently learning: **Machine Learning** and **Data Visualization**
+- 🌱 Currently learning: **Python**, **Machine Learning**, and **Data Visualization**
 - 💬 Ask me about: **Python**, **SQL**, **HTML/CSS**, **Power BI**, or **Figma**
 - ⚙️ Tools I use: `Python` · `SQL` · `Power BI` · `Excel` · `Figma` · `VS Code` · `Photoshop`
 - 🤝 Open to: Internship opportunities in **Data**, **Web Development**, or **Business Intelligence**
